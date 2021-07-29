@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dridi family
+Build-Jdk: 14.0.2
+Implementation-Title: ETD_system
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.excel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ETD_system
+Created-By: Maven Integration for Eclipse
+
